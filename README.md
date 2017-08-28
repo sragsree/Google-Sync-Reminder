@@ -1,6 +1,6 @@
 # Google Sync Reminder
 
-A reminder web application engineered with technologies like HTML, Bootstrap, JSP, Servlets and Presto database.What makes it different is that it uses the user's google account(mandatory to register as a user) to sync the added events and tasks to the user's google calender using google calender API and send reminder emails using Gmail.
+A reminder web application engineered with technologies like HTML, Bootstrap, JSP, Servlets and MySQL.What makes it different is that it uses the user's google account(mandatory to register as a user) to sync the added events and tasks to the user's google calender using google calender API and send reminder emails using Gmail.
 
 ### Installation
 
